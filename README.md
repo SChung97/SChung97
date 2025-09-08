@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Steph 👋
+
+### About me
+< I'm >
+
 
 <!--
 **SChung97/SChung97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
