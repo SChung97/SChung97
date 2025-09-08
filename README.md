@@ -1,7 +1,7 @@
 ## Hi there, I'm Steph 👋
 
 ### About me
-< I'm >
+I'm a 2025 career changer, aspiring to become a Full Stack Developer after five years of working in the NHS as a Pharmacy Dispenser.
 
 
 <!--
